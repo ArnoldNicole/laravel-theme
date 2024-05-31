@@ -1,10 +1,9 @@
 <?php
-use Opis\Closure\SerializableClosure;
+use Laravel\SerializableClosure\SerializableClosure;
 
 
 $function = function(){
-	//$theme->setTitle('Something in global.');
-	
+	//$theme->setTitle('Something in global.');	
 };
 $themeSerialize=new SerializableClosure($function);
 $asset = function(){
