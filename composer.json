@@ -1,5 +1,5 @@
 {
-    "name": "facuz/laravel-themes",
+    "name": "arnold-nicole/laravel-themes",
     "description": "Theme will help you organize your themes inside Laravel projects easily and maintain its related assets, layouts and partials for the theme in single directory. (Based on teepluss/theme)",
     "keywords": ["laravel", "theme", "layout", "asset", "widget"],
     "homepage": "https://github.com/facuz/laravel-theme",
@@ -16,8 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "opis/closure": "^3.5@dev"
+        "php": ">=5.4.0"
     },
     "require-dev": {
         "illuminate/support": ">=5.0.1"
