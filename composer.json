@@ -16,7 +16,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "laravel/serializable-closure": "*"
     },
     "require-dev": {
         "illuminate/support": ">=5.0.1"
